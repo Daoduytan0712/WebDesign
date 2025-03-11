@@ -17,14 +17,17 @@
     border: 5px solid #3A38FE;
     text-align: right;
     vertical-align:top;
+    padding-top: 10px;
 }
 #center{
     border: 5px solid red;
     width: 70%;
+    padding-top: 20px;
 
 }
 #right{
     border: 5px solid yellow;
     text-align: right;
     vertical-align:top;
+    padding-top: 10px;
 }
